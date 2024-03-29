@@ -14,7 +14,7 @@
 
 ## What is IDP?
 
-IDP is an open source AI IDE, natively supporting Python & SQL - the two most commonly used language in the field of AI and data science. 
+IDP is an open source AI IDE donated by our echo system partner Baihai, natively supporting Python & SQL - the two most commonly used language in the field of AI and data science. 
 
 IDP is designed to make data scientists and algorithm engineers more productive. Also, with the kernel written in Rust, IDP exhibits excellent execution performance.
 
